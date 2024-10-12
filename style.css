@@ -1,0 +1,64 @@
+#reklama{
+  background: #000000 url(https://sun9-28.userapi.com/impg/ZDzDf4dtQR2k6lI_wZlTz2620f9w0POxP3dWpA/K_VETBBt1y4.jpg?size=723x1080&quality=95&sign=a5a179e54dd819556dab9aecd773e53a&c_uniq_tag=ixTUXi7iv6q0Os0ymsqnvqG2Cn8Wfc8MIN64EQ4uFCk&type=album) left center/contain no-repeat local;
+}
+#content{
+  background: #000000 url(https://e.mail.ru/cgi-bin/getattach?file=222.png&id=17287248711149214961%3B0%3B1&mode=attachment&project=cloud&x-email=aarmada2010%40mail.ru) center center/contain no-repeat local;
+  
+}
+#reklama{
+  width: 25%;
+  height:500px;
+  float:left;
+  
+}
+
+#content{
+  width: 75%;
+  height:500px;
+  float:left;
+  background-color: black;
+}
+#counter_strike_2{
+  background-color: brown;
+  color: orange;
+}
+#Rust{
+  background-color: purple;
+   color: red;
+}
+#Satisfactory{
+  background-color: blue;
+  color: orange
+}
+#counter_strike_22 {
+  color: orange;
+  text-decoration: none;
+   } 
+#counter_strike_22:hover {
+  text-decoration: underline;
+   } 
+#Satisfactory2 {
+  color: orange;
+  text-decoration: none;
+   } 
+#Satisfactory2:hover {
+  text-decoration: underline;
+   } 
+#Rust2 {
+  color: red;
+  text-decoration: none;
+   } 
+#Rust2:hover {
+  text-decoration: underline;
+   } 
+
+
+#Rustttt{
+  color:white;
+}
+#survival{
+  color: red;
+}
+body{
+  background-color: black;
+}
