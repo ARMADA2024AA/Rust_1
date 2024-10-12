@@ -62,3 +62,64 @@
 body{
   background-color: black;
 }
+ul{
+  background-color: black;
+  width: 500px;
+  color: white;
+  padding: 1%
+  position: absolute
+  
+  
+}
+ul li{
+  
+  margin: 5%;
+  padding: 5%;
+  text-align: center;
+  display: none
+}
+li1{
+   background-color: purple;
+   color: red
+}
+li2{
+  background-color: brown;
+  color: orange
+}
+li3{
+   background-color: blue;
+   color: orange
+}
+
+ul:hover li{
+  display:block;
+}
+
+
+body{
+  background-color: black;
+}
+
+#RustURL{
+  color: red;
+  text-decoration: none;
+}
+#RustURL.hover {
+  text-decoration: underline;
+}
+
+#counter_strike_2URL{
+  color: orange;
+  text-decoration: none;
+}
+#counter_strike_2URL.hover {
+  text-decoration: underline;
+}
+
+#SatisfactoryURL{
+  color: orange;
+  text-decoration: none;
+}
+#SatisfactoryURL.hover {
+  text-decoration: underline;
+}
